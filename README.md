@@ -1,2 +1,2 @@
-# javasript-my-man-
+# javascript-my-man
 why
